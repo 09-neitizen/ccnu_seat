@@ -22,10 +22,3 @@
 定点秒杀功能为当到达你设定的时间后，就会自动选座
 
 在选择好日期，时间和座位号后，点击定点秒杀，在弹出的窗口中，输入你想定的时间，默认为每天的晚上6点，然后点击start timer即可
-# PyQt5_CCNU_Library_Seat
-# PyQt5_CCNU_Library_Seat
-# PyQt5_CCNU_Library_Seat
-# PyQt5_CCNU_Library_Seat
-# PyQt5_CCNU_Library_Seat
-# PyQt5_CCNU_Library_Seat
-# PyQt5_CCNU_Library_Seat
