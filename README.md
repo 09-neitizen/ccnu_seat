@@ -23,4 +23,16 @@
 
 在选择好日期，时间和座位号后，点击定点秒杀，在弹出的窗口中，输入你想定的时间，默认为每天的晚上6点，然后点击start timer即可
 
-如果您有更好的架构或者修改建议，欢迎交流评论修改
+#### 软件使用
+
+若要使用软件，还请移步到https://github.com/09-neitizen/ccnu_seat
+
+然后下载zip压缩包，解压后
+
+双击ccnu_seat/tree/main/controllers/dist下的maincontroller.exe即可使用该软件
+
+
+#### 软件首页
+![输入图片说明](sources/red2.png)
+
+![输入图片说明](sources/red1.png)
